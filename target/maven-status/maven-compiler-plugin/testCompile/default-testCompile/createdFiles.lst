@@ -1,0 +1,9 @@
+com/example/electionapp/controllers/CandidateControllerTest.class
+com/example/electionapp/data/repositories/VoteRepositoryTest.class
+com/example/electionapp/services/VoteServiceImplTest.class
+com/example/electionapp/controllers/VoteControllerTest.class
+com/example/electionapp/services/CandidateServiceImplTest.class
+com/example/electionapp/services/VoterServiceImplTest.class
+com/example/electionapp/controllers/VoterControllerTest.class
+com/example/electionapp/data/repositories/CandidateRepositoryTest.class
+com/example/electionapp/data/repositories/VoterRepositoryTest.class

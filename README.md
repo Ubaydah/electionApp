@@ -1,6 +1,6 @@
 # Election App
 
-A student-friendly election management REST API built with Java 25, Spring Boot 4.1.0-M3, MongoDB, Maven, and test-driven development.
+An election management REST API built with Java 25, Spring Boot 4.1.0-M3, MongoDB, Maven, and test-driven development.
 
 ## Features
 
@@ -105,11 +105,4 @@ mvn spring-boot:run
 ### View results
 `GET /api/candidates/results`
 
-## Important Spring Boot 4 Test Note
 
-Spring Boot 4 uses:
-- `org.springframework.boot.webmvc.test.autoconfigure.WebMvcTest`
-- `org.springframework.test.context.bean.override.mockito.MockitoBean`
-
-So the older `org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest`
-and `@MockBean` imports should not be used in this project.

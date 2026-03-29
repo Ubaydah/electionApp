@@ -40,14 +40,6 @@ src/main/java/com/example/electionapp/
 └── utils/
 ```
 
-## TDD Flow Used
-
-1. Write service tests first.
-2. Implement service logic until tests pass.
-3. Write controller tests.
-4. Implement controller endpoints.
-5. Run all tests.
-
 ## Run Instructions
 
 ### 1. Start MongoDB
